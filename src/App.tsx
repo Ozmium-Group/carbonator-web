@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './assets/carbonator_logo.svg';
+import logo from './assets/carbonator_logo_color.svg';
 import './App.css';
 // add bootstrap
 import 'bootstrap/dist/css/bootstrap.css';
